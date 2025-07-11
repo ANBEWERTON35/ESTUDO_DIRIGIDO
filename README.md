@@ -1,8 +1,8 @@
 Estudo Dirigido em Processamento Digital de Sinais
+
 👥 Autores
 [Seu Nome Completo] (matrícula) - [seu email]
 
-[Nome do Colega] (matrícula) - [email do colega] (se aplicável)
 
 🎯 Objetivo do Estudo
 Este estudo dirigido tem como objetivo aplicar os conceitos práticos de Processamento Digital de Sinais através da análise teórica e simulações computacionais dos principais tópicos abordados no livro texto "Digital Signal Processing using MATLAB". O projeto abordará desde conceitos fundamentais como a Transformada-z até aplicações práticas em comunicações, com foco na implementação de filtros digitais e análise espectral.
