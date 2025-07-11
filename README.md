@@ -5,6 +5,7 @@ Ewerton Barbosa do Nascimento Amaro 202311210031 - ewerton.nascimento@academico.
 
 
 🎯 Objetivo do Estudo
+
 Este estudo dirigido tem como objetivo aplicar os conceitos práticos de Processamento Digital de Sinais através da análise teórica e simulações computacionais dos principais tópicos abordados no livro texto "Digital Signal Processing using MATLAB". O projeto abordará desde conceitos fundamentais como a Transformada-z até aplicações práticas em comunicações, com foco na implementação de filtros digitais e análise espectral.
 
 📚 Capítulos Abordados
