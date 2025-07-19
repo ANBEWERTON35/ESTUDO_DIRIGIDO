@@ -2,6 +2,7 @@ Estudo Dirigido em Processamento Digital de Sinais
 
 👥 Autores
 Ewerton Barbosa do Nascimento Amaro 202311210031 - ewerton.nascimento@academico.ifpb.edu.br
+Davi Araujo Silva-202311210005 - davi.silva.3@academico.ifpb.edu.br
 
 
 🎯 Objetivo do Estudo
