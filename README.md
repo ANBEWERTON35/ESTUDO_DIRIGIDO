@@ -11,6 +11,7 @@ Este estudo dirigido tem como objetivo aplicar os conceitos práticos de Process
 📚 Capítulos Abordados
 
 Transformada-z
+https://colab.research.google.com/drive/1QM75V5F4Vxe72HgCorQgDKpWyJ0oTCbB?usp=sharing
 
 Transformada Discreta de Fourier
 
