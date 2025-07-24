@@ -12,13 +12,15 @@ Este estudo dirigido tem como objetivo aplicar os conceitos práticos de Process
 
 📚 Capítulos Abordados
 
+Resumo do estudo dirigido: https://colab.research.google.com/drive/1QM75V5F4Vxe72HgCorQgDKpWyJ0oTCbB?usp=sharing
+
 Transformada-z
-https://colab.research.google.com/drive/1QM75V5F4Vxe72HgCorQgDKpWyJ0oTCbB?usp=sharing
+
 
 Transformada Discreta de Fourier
 
 Implementação de Filtros Discretos no Tempo
-https://colab.research.google.com/drive/1CxsRjiQSNyFhuzz-tc1dlKlhU5DquPfx?usp=sharing
+
 
 Projeto de Filtros FIR
 
