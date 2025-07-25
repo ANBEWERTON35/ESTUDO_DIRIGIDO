@@ -16,17 +16,27 @@ Resumo do estudo dirigido: https://colab.research.google.com/drive/1QM75V5F4Vxe7
 
 Transformada-z
 
+Video de explicação: https://youtu.be/_cwMggmruPw?si=FsZRT8Fg19hsaNVB
 
 Transformada Discreta de Fourier
 
+Video de demostração: https://youtu.be/acyRz-zGzC0?si=DYNNK1an7pMR1fb7
+
 Implementação de Filtros Discretos no Tempo
 
+Video de demostração: https://youtu.be/NvUtDbefJPs?si=X8a4UOcbLJLAt33s
 
 Projeto de Filtros FIR
 
+Video de demostração: https://youtu.be/8WrwJbMB2J0?si=p0T4r7FJn8Ezv43F
+ 
 Projeto de Filtros IIR
 
+Video de demostração: https://youtu.be/V-hSvPQm-ME?si=rk7Z62PBKp5E9mgS
+
 Aplicações em Comunicações
+
+Video de demostração: https://youtu.be/pT3ocI8TTbI?si=VTp23WtGXcQUAwRH
 
 🔍 Metodologia
 
